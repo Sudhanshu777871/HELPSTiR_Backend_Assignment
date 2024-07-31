@@ -19,8 +19,8 @@ This is a Todo List application built with Node.js and Express.js. It allows use
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd my-todo-app
+   git clone https://github.com/Sudhanshu777871/HELPSTiR_Backend_Assignment.git
+   cd HELPSTiR_Backend_Assignment
 2. Install dependencies:
    npm install
 
